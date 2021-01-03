@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Hello, World!!
+## Title-ptBr: Olá, Mundo!!
+## Notes: The best "Hello, World" addon!!
+## SavedVariables: HelloWorld_Text
+HelloWorld.lua
